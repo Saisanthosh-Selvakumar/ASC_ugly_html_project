@@ -12,9 +12,25 @@ h1 {
 }
 
 img {
+    width: 250px;
+}
+
+.introduction {
+    text-align: center;
     border: solid #3232b3 10x;
 }
 
-.pokemon_images {
+.each_pokemon_container {
+    text-align: center;
+}
 
+#bulbasaur_container {
+    border: solid white 2px;
+    background-color: #00FF00;
+    border-radius: 25px, ;
+}
+
+#charmander_container {
+    border: solid white 2px;
+    border-radius: 25px, ;
 }
