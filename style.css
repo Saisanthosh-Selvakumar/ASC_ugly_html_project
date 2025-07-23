@@ -19,8 +19,9 @@ body {
 }
 
 img {
-    border: solid #2F549B 10px;
-    width: 600px;
+    border: solid #2F549B 5px;
+    width: 575px;
+    padding: 5px;
 }
 
 footer {
@@ -32,7 +33,6 @@ footer {
 }
 
 .each_pokemon_container {
-    padding: 10px;
     text-align: center;
 }
 
